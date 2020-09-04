@@ -1,2 +1,2 @@
 # Estudos
-Criado para Estudos de Cursos
+Criado para Estudos
